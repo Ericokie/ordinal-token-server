@@ -1,0 +1,7 @@
+{
+  "name": "ordinal-token-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "wrtc": "^0.5.3"
+  }
+}
